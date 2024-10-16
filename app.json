@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "delicious-violet-peach",
+    "slug": "snack-928b09bc-f243-4fe9-a651-93c07548f50c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
